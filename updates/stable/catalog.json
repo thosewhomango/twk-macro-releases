@@ -2,18 +2,18 @@
   "schemaVersion": 1,
   "product": "twk-macro-hub",
   "channel": "stable",
-  "revision": 1,
-  "generatedAt": "2026-07-20T00:41:14Z",
+  "revision": 2,
+  "generatedAt": "2026-07-20T01:44:25Z",
   "components": {
-    "utdx": {
-      "version": "0.60.1",
-      "packageUrl": "https://raw.githubusercontent.com/thosewhomango/twk-macro-releases/package-assets/packages/TWK-utdx-0.60.1.zip",
-      "packageSize": 11099711,
-      "packageSha256": "d8382a1ee45c0033a50abd222de93912399349cf4e3c43ab594312f19f3468c5",
+    "ae": {
+      "version": "0.1.0",
+      "packageUrl": "https://raw.githubusercontent.com/thosewhomango/twk-macro-releases/package-assets/packages/TWK-ae-0.1.0.zip",
+      "packageSize": 9935978,
+      "packageSha256": "f3a32a2c6de30898c7ca7a0f882cd5201f729b5feecfa7fb2fa421963e50445d",
       "minimumUpdaterVersion": "0.1.0-dev",
       "mandatory": false,
       "requires": {}
     }
   },
-  "signature": "ed25519:b0Cp0duXKujRdhH0FYFlDt9zpn85mvVVoE22WTXnfNutsa2whd1CCgb2OMEJvw/eIqEApWVoS4ZSrwwGn+s5AA=="
+  "signature": "ed25519:grvT9OjusPHQNUGCJSCgGkJfxW4wjUC+2FYSnQHPZ8+Ymnyhqf91SiSDnxmFtG+cgdwcYF42vpOMG5ALCF0+Cg=="
 }
