@@ -2,8 +2,18 @@
   "schemaVersion": 1,
   "product": "twk-macro-hub",
   "channel": "stable",
-  "revision": 0,
-  "generatedAt": "2026-07-19T00:00:00Z",
-  "components": {},
-  "signature": null
+  "revision": 1,
+  "generatedAt": "2026-07-20T00:41:14Z",
+  "components": {
+    "utdx": {
+      "version": "0.60.1",
+      "packageUrl": "https://raw.githubusercontent.com/thosewhomango/twk-macro-releases/package-assets/packages/TWK-utdx-0.60.1.zip",
+      "packageSize": 11099711,
+      "packageSha256": "d8382a1ee45c0033a50abd222de93912399349cf4e3c43ab594312f19f3468c5",
+      "minimumUpdaterVersion": "0.1.0-dev",
+      "mandatory": false,
+      "requires": {}
+    }
+  },
+  "signature": "ed25519:b0Cp0duXKujRdhH0FYFlDt9zpn85mvVVoE22WTXnfNutsa2whd1CCgb2OMEJvw/eIqEApWVoS4ZSrwwGn+s5AA=="
 }
