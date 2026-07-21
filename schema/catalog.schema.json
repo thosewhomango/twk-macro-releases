@@ -1,7 +1,7 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://raw.githubusercontent.com/thosewhomango/twk-macro-releases/main/schema/catalog.schema.json",
-  "title": "TWK Macro Hub Update Catalog",
+  "title": "TWK Macro Hub Signed Component Catalog",
   "type": "object",
   "additionalProperties": false,
   "required": [

@@ -123,8 +123,7 @@ def validate_component(component_id: str, component: Any) -> None:
         )
 
 
-def validate_catalog(channel: str) -> None:
-    path = ROOT / "updates" / channel / "catalog.json"
+def validate_catalog(path: Path, channel: str) -> None:
     catalog = read_json(path)
     context = str(path.relative_to(ROOT))
 
@@ -164,7 +163,8 @@ def main() -> int:
         schema = read_json(ROOT / "schema" / "catalog.schema.json")
         require(isinstance(schema, dict), "schema/catalog.schema.json must contain an object")
         for channel in CHANNELS:
-            validate_catalog(channel)
+            validate_catalog(ROOT / "updates" / channel / "catalog.json", channel)
+            validate_catalog(ROOT / "library" / channel / "catalog.json", channel)
     except CatalogError as error:
         print(f"catalog validation failed: {error}", file=sys.stderr)
         return 1
