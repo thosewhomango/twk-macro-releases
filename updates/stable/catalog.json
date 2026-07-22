@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "product": "twk-macro-hub",
   "channel": "stable",
-  "revision": 16,
-  "generatedAt": "2026-07-22T23:28:25Z",
+  "revision": 17,
+  "generatedAt": "2026-07-22T23:29:37Z",
   "components": {
     "ae": {
       "version": "0.1.7",
@@ -26,14 +26,14 @@
       "releaseNotesUrl": "https://raw.githubusercontent.com/thosewhomango/twk-macro-releases/package-assets/notes/rapidocr/0.1.0.md#sha256=2d90b6f57861f40862873224f76ef9f06c6bf62aba8bb73fac3fbaaf65e250ae"
     },
     "hub": {
-      "version": "1.0.3",
-      "packageUrl": "https://raw.githubusercontent.com/thosewhomango/twk-macro-releases/package-assets/packages/TWK-hub-1.0.3.zip",
-      "packageSize": 5284954,
-      "packageSha256": "b6c9100209d79d0ee0d37856fa6260fd05958a3967fc5e7efd29efe562d6d6f2",
+      "version": "1.0.4",
+      "packageUrl": "https://raw.githubusercontent.com/thosewhomango/twk-macro-releases/package-assets/packages/TWK-hub-1.0.4.zip",
+      "packageSize": 5281499,
+      "packageSha256": "f9681903a17ff7cbc79670ad7ccb10e8a308dbe6c000861476d2356ce759d094",
       "minimumUpdaterVersion": "0.2.0",
       "mandatory": false,
       "requires": {},
-      "releaseNotesUrl": "https://raw.githubusercontent.com/thosewhomango/twk-macro-releases/package-assets/notes/hub/1.0.3.md#sha256=9325d76df8f1229ea72acc89bb25f2080a17e5d228354a5d62b3beffb614b9ac"
+      "releaseNotesUrl": "https://raw.githubusercontent.com/thosewhomango/twk-macro-releases/package-assets/notes/hub/1.0.4.md#sha256=7df4967cd05f8ddb1e374b3092151173e20495741ae016d3a0607b9ad6668562"
     },
     "updater": {
       "version": "0.3.6",
@@ -46,5 +46,5 @@
       "releaseNotesUrl": "https://raw.githubusercontent.com/thosewhomango/twk-macro-releases/package-assets/notes/updater/0.3.6.md#sha256=08fab0441a4a8f2c4a04df22e4096890ab9c11748bc93644edf7aa4fb4e1c59d"
     }
   },
-  "signature": "ed25519:983a50f0XMJJUbLCoJr7N6caG+SSYnwHp+qI3InYzkzS0qi6PTfouuoL+ZSdX1Ev78WJw6pxqRFhCCzg7Q3ECg=="
+  "signature": "ed25519:pbE0T/dAHgK1UKTNEI7LXZV1gduK7n5H77TZaV6UH7vW+DCy/9xlvX9aYMQ/EghMM+RCUbA3RhqW/mKbjhKmDQ=="
 }
