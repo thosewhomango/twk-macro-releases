@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "product": "twk-macro-hub",
   "channel": "stable",
-  "revision": 14,
-  "generatedAt": "2026-07-22T22:48:47Z",
+  "revision": 15,
+  "generatedAt": "2026-07-22T22:50:19Z",
   "components": {
     "ae": {
       "version": "0.1.7",
@@ -26,14 +26,14 @@
       "releaseNotesUrl": "https://raw.githubusercontent.com/thosewhomango/twk-macro-releases/package-assets/notes/rapidocr/0.1.0.md#sha256=2d90b6f57861f40862873224f76ef9f06c6bf62aba8bb73fac3fbaaf65e250ae"
     },
     "hub": {
-      "version": "1.0.2",
-      "packageUrl": "https://raw.githubusercontent.com/thosewhomango/twk-macro-releases/package-assets/packages/TWK-hub-1.0.2.zip",
-      "packageSize": 5266335,
-      "packageSha256": "884aac11a61f95dba0acd28e43e5e3d066007e9daec7cdfdde14202adf364be5",
+      "version": "1.0.3",
+      "packageUrl": "https://raw.githubusercontent.com/thosewhomango/twk-macro-releases/package-assets/packages/TWK-hub-1.0.3.zip",
+      "packageSize": 5284954,
+      "packageSha256": "b6c9100209d79d0ee0d37856fa6260fd05958a3967fc5e7efd29efe562d6d6f2",
       "minimumUpdaterVersion": "0.2.0",
       "mandatory": false,
       "requires": {},
-      "releaseNotesUrl": "https://raw.githubusercontent.com/thosewhomango/twk-macro-releases/package-assets/notes/hub/1.0.2.md#sha256=573dd0d4c543a9fb8bf18e04e5bf47a2d066850aff6a7b835549c0d0c6074655"
+      "releaseNotesUrl": "https://raw.githubusercontent.com/thosewhomango/twk-macro-releases/package-assets/notes/hub/1.0.3.md#sha256=9325d76df8f1229ea72acc89bb25f2080a17e5d228354a5d62b3beffb614b9ac"
     },
     "updater": {
       "version": "0.3.5",
@@ -46,5 +46,5 @@
       "releaseNotesUrl": "https://raw.githubusercontent.com/thosewhomango/twk-macro-releases/package-assets/notes/updater/0.3.5.md#sha256=3f213468a80bf35b0c9bfbcc9ed86dd7108acdcab39d24ef3ca76d64456cc794"
     }
   },
-  "signature": "ed25519:8QomaS7vV+y1O2KgVaZc7P++SbPjwjoM/MJ1wwtuAZ6aG2Q53ZBkpnCHGJtbKQG8cnoNdIKaNJ8Puz/R29tnAQ=="
+  "signature": "ed25519:jxPHl4UsavXfaQRcEiboJLXJDVQ5vGj56nrnKWRU9GdvGUPuLWQGz+nCwQ6bodBsxwgiYbqJbQhQarIBFAcEDg=="
 }
