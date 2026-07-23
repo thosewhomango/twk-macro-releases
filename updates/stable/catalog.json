@@ -2,18 +2,18 @@
   "schemaVersion": 1,
   "product": "twk-macro-hub",
   "channel": "stable",
-  "revision": 17,
-  "generatedAt": "2026-07-22T23:29:37Z",
+  "revision": 18,
+  "generatedAt": "2026-07-23T00:40:28Z",
   "components": {
     "ae": {
-      "version": "0.1.7",
-      "packageUrl": "https://raw.githubusercontent.com/thosewhomango/twk-macro-releases/package-assets/packages/TWK-ae-0.1.7.zip",
-      "packageSize": 10815722,
-      "packageSha256": "51b8bfaee99e9b40b4885b1dbe8de4e064c4f42832cd7d8f17f13fb48fa2b7d8",
+      "version": "0.1.8",
+      "packageUrl": "https://raw.githubusercontent.com/thosewhomango/twk-macro-releases/package-assets/packages/TWK-ae-0.1.8.zip",
+      "packageSize": 10815021,
+      "packageSha256": "979d3177fb76ab736ca8eebec2d5cb60081aabf6896cae53f8cbdc0edff8ec9d",
       "minimumUpdaterVersion": "0.2.0",
       "mandatory": false,
       "requires": {},
-      "releaseNotesUrl": "https://raw.githubusercontent.com/thosewhomango/twk-macro-releases/package-assets/notes/ae/0.1.7.md#sha256=4f0b8fd8b47b813cd0e89676c4908ec2726fb20f183a510ac9e73d052c6b8b82"
+      "releaseNotesUrl": "https://raw.githubusercontent.com/thosewhomango/twk-macro-releases/package-assets/notes/ae/0.1.8.md#sha256=36cd8417523bff3230dd758dd7af4463cd9dcf4fa46e55c08ef96627b0c6cdf8"
     },
     "rapidocr": {
       "version": "0.1.0",
@@ -46,5 +46,5 @@
       "releaseNotesUrl": "https://raw.githubusercontent.com/thosewhomango/twk-macro-releases/package-assets/notes/updater/0.3.6.md#sha256=08fab0441a4a8f2c4a04df22e4096890ab9c11748bc93644edf7aa4fb4e1c59d"
     }
   },
-  "signature": "ed25519:pbE0T/dAHgK1UKTNEI7LXZV1gduK7n5H77TZaV6UH7vW+DCy/9xlvX9aYMQ/EghMM+RCUbA3RhqW/mKbjhKmDQ=="
+  "signature": "ed25519:stwd2WNwvgOqPYdDcZOuE7VvOKqfhipky+CLHdL8pO7V6JGXD19nhgtGbleoCs27Be8iLxRbDT/N13/ccFBdBQ=="
 }
