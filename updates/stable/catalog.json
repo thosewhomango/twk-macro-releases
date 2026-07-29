@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "product": "twk-macro-hub",
   "channel": "stable",
-  "revision": 29,
-  "generatedAt": "2026-07-29T18:53:12Z",
+  "revision": 30,
+  "generatedAt": "2026-07-29T18:54:30Z",
   "components": {
     "ae": {
       "version": "0.1.20",
@@ -26,14 +26,14 @@
       "releaseNotesUrl": "https://raw.githubusercontent.com/thosewhomango/twk-macro-releases/package-assets/notes/rapidocr/0.1.0.md#sha256=2d90b6f57861f40862873224f76ef9f06c6bf62aba8bb73fac3fbaaf65e250ae"
     },
     "hub": {
-      "version": "1.0.4",
-      "packageUrl": "https://raw.githubusercontent.com/thosewhomango/twk-macro-releases/package-assets/packages/TWK-hub-1.0.4.zip",
-      "packageSize": 5281499,
-      "packageSha256": "f9681903a17ff7cbc79670ad7ccb10e8a308dbe6c000861476d2356ce759d094",
+      "version": "1.0.5",
+      "packageUrl": "https://raw.githubusercontent.com/thosewhomango/twk-macro-releases/package-assets/packages/TWK-hub-1.0.5.zip",
+      "packageSize": 5285451,
+      "packageSha256": "7e5c5263c2b65c227e032c859bae2e8541cfba43fa31568d4ab490d366e08815",
       "minimumUpdaterVersion": "0.2.0",
       "mandatory": false,
       "requires": {},
-      "releaseNotesUrl": "https://raw.githubusercontent.com/thosewhomango/twk-macro-releases/package-assets/notes/hub/1.0.4.md#sha256=7df4967cd05f8ddb1e374b3092151173e20495741ae016d3a0607b9ad6668562"
+      "releaseNotesUrl": "https://raw.githubusercontent.com/thosewhomango/twk-macro-releases/package-assets/notes/hub/1.0.5.md#sha256=2dad4943e6aad267839988826fb9f6398fe7bc04263bb4847ba51e2a3602639b"
     },
     "updater": {
       "version": "0.3.7",
@@ -46,5 +46,5 @@
       "releaseNotesUrl": "https://raw.githubusercontent.com/thosewhomango/twk-macro-releases/package-assets/notes/updater/0.3.7.md#sha256=0a792100310acec4ffead907dd1d871570aaf443514ac30bae6a3d0246f80b0f"
     }
   },
-  "signature": "ed25519:wHKnP2MGidPJlei5neQNPS22e4rnLKM47dv1nhRznXGHBrbyH45Lznljgg0Ag/2utXtJ2XwWIb2+Din3Nu9nDg=="
+  "signature": "ed25519:xF18SRoOGSy8Ua7OSNo9U+zKDVD4rANVPgLjs8WUalUbsA0Oy3haf9EP5P6CQ7QyTI8c4ggNajI8L6r36wUaDw=="
 }
