@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "product": "twk-macro-hub",
   "channel": "stable",
-  "revision": 50,
-  "generatedAt": "2026-08-17T01:44:18Z",
+  "revision": 51,
+  "generatedAt": "2026-08-17T02:28:18Z",
   "components": {
     "ae": {
       "version": "0.1.31",
@@ -36,14 +36,14 @@
       "releaseNotesUrl": "https://raw.githubusercontent.com/thosewhomango/twk-macro-releases/package-assets/notes/hub/1.0.8.md#sha256=310f4b980e5882328531808b6aae8c6310b88f74c1e8ed4a62804c6ff4935aab"
     },
     "updater": {
-      "version": "0.3.8",
-      "packageUrl": "https://raw.githubusercontent.com/thosewhomango/twk-macro-releases/package-assets/packages/TWK-updater-0.3.8.zip",
-      "packageSize": 9382452,
-      "packageSha256": "eba3497902a50e1e1795a3ca14ba46c3f870b40800f6f5829e25a18951502cd3",
+      "version": "0.3.9",
+      "packageUrl": "https://raw.githubusercontent.com/thosewhomango/twk-macro-releases/package-assets/packages/TWK-updater-0.3.9.zip",
+      "packageSize": 9381623,
+      "packageSha256": "163d40435608172d23489e40cc0b91b769103bbfe60c5e4822f4b2f3daa6c8b2",
       "minimumUpdaterVersion": "0.2.0",
       "mandatory": false,
       "requires": {},
-      "releaseNotesUrl": "https://raw.githubusercontent.com/thosewhomango/twk-macro-releases/package-assets/notes/updater/0.3.8.md#sha256=486bff6d75efb75ef8426fc0eca07dff766d231eb3fb39f50d7d5e941386304a"
+      "releaseNotesUrl": "https://raw.githubusercontent.com/thosewhomango/twk-macro-releases/package-assets/notes/updater/0.3.9.md#sha256=c2f9e8b43c6fe173486f16c7b8905357d57e468db170ed225ce01f96c33e9339"
     },
     "as": {
       "version": "0.1.4",
@@ -66,5 +66,5 @@
       "releaseNotesUrl": "https://raw.githubusercontent.com/thosewhomango/twk-macro-releases/package-assets/notes/ao/0.1.0.md#sha256=20344d001a4d86bd5751b9518a65b5dc4dbf6283d82fbdb99d6533c46e788fae"
     }
   },
-  "signature": "ed25519:5Kau7Vq3gb5X0J/k3bGRZRslsNSqYJ7bWu9JyYZMm1ZjzSLsO0xIhv1S7pK7Q+kZb+/CLrOSprSDM9m1cnAVDw=="
+  "signature": "ed25519:tgfdcQGPFhRz3BMm0z5EW1byFEmt3h2JHtimxqnPCCljkEiSKTtsNDkcnDibG9ndLoIVYg3VaBpgWnwfdgr4Cg=="
 }
